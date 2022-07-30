@@ -11,6 +11,9 @@ This research work focuses on comparing the existing approaches to explain the d
 - [@German Aerospace Center (DLR)](https://www.dlr.de/DE/Home/home_node.html)
 - [@Hochschule Bonn-Rhein-Sieg](https://www.h-brs.de/en)
 
+## Languages and Tools
+<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/768px-NumPy_logo_2020.svg.png?20200723114325" alt="numpy" width="95" height="43"/></a><a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://c.neh.tw/thumb/f/720/m2H7K9d3N4Z5i8G6.jpg" alt="ipynb" width="95" height="43"/></a> </p>
+
 `Explainable AI (XAI)` methods are applied for `LSTM regression-based` anomaly detection models with different configurations `(simple/vanilla LSTM, encoder-decoder based LSTM, stacked LSTM and bi-directional LSTM)` for `satellite telemetry` data (time-series). These methods are compared based on the explanations obtained as a result of implementation as plots. A comparative analysis is performed by comparing the implemented methods based on generated results differentiating the methods fitting between differentiable and non-differentiable models.
 
 ## Why XAI?
